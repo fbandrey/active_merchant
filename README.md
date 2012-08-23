@@ -1,4 +1,5 @@
 # Active Merchant
+## With Russian RBK Money Gateway Integration Support
 
 Active Merchant is an extraction from the e-commerce system [Shopify](http://www.shopify.com).
 Shopify's requirements for a simple and unified API to access dozens of different payment
